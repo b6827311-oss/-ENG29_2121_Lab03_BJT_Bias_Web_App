@@ -5,6 +5,7 @@
 
 - **วันที่ตรวจ:** 2026-11-17
 - **Repository (Lab 03):** <https://github.com/b6827311-oss/-ENG29_2121_Lab03_BJT_Bias_Web_App>
+- **Commit ที่ตรวจ (Lab 03):** `eb8b6ab1751edce26be8fd02333a6023aa66db14`
 - **Environment:** Windows, Python 3.15.2, Flask 3.1.3 (`requirements.txt`)
 - **รันเว็บ:** `python -m flask --app app run` → <http://127.0.0.1:5000/>
 - **วิธีตรวจ:** OpenCode Browser (in-app browser tools) — ดูหมายเหตุเรื่อง Playwright MCP ใน §5

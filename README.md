@@ -239,7 +239,8 @@ SPICE/ngspice, FET, interactive schematic, DC load line,
 
 - **Repository:** <https://github.com/b6827311-oss/-ENG29_2121_Lab03_BJT_Bias_Web_App>
 - **Branch:** `main`
-- **Commit SHA (Lab 03):** _เติมหลัง Commit/Push ผ่าน GitHub Desktop_
+- **Commit SHA (Lab 03):** `eb8b6ab1751edce26be8fd02333a6023aa66db14`
+  (`eb8b6ab` — *feat: add Lab 03 fixed and emitter bias modes with acceptance evidence*)
 - **วิธีรัน:** ดู Quick Start ด้านบน
 - **ส่วนที่ AI ช่วย:** ฟังก์ชัน Fixed/Emitter, dispatch ตามโหมด, ฟอร์มเลือกโหมด,
   เอกสารและตาราง A1–A5 — นักศึกษาตรวจสมการ/หน่วย/warning และผล A1–A5
